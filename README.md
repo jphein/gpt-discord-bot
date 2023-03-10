@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://replit.com/badge/github/jphein/gpt-discord-bot)](https://replit.com/new/github/jphein/gpt-discord-bot)
 # Please read!
 
 
