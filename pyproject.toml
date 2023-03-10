@@ -7,7 +7,7 @@ authors = ["Replit user <<>>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 discord = "^2.1.0"
-openai = "^0.26.4"
+openai = "^0.27.1"
 python-dotenv = "^0.21.1"
 PyYAML = "^6.0"
 dacite = "^1.8.0"

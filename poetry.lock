@@ -145,7 +145,7 @@ python-versions = ">=3.7"
 
 [[package]]
 name = "openai"
-version = "0.26.4"
+version = ">=0.27.1"
 description = "Python client library for the OpenAI API"
 category = "main"
 optional = false
